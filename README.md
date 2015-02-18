@@ -21,4 +21,8 @@ and execute bash
 
 ----
 
+MIT License. Copyright 2015 CloudGear
+
+![CloudGear Container Platform](https://www.cloudgear.net/img/logo-white.png)
+
 A product by [CloudGear](https://www.cloudgear.net).
